@@ -11,7 +11,7 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 ᴍᴏᴠɪᴇs sᴇɴᴅᴇʀ ʙᴏᴛ 』 ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ + Mᴀɴᴜᴀʟ sᴇɴᴅᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.</b>
+    START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 sᴇɴᴅᴇʀ ʙᴏᴛ 』𝟐𝐤 𝐌𝐨𝐯𝐢𝐞𝐬 𝟐𝟒/𝟕  + Mᴀɴᴜᴀʟ sᴇɴᴅᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.</b>
     
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>"""
     HELP_TXT = """<b>𝙷𝙴𝚈 {}
@@ -125,6 +125,6 @@ This module only works for my admins
 💌 ᴀᴅᴅᴇᴅ ʙʏ 💌 - {} 
 """
     LOG_TEXT_P = """#NewUser
-ɪᴅ 💕- <code>{}</code>
-ɴᴀᴍᴇ 😍 - {} 
+𝐔𝐬𝐞𝐫 𝐈𝐃 🤩- <code>{}</code>
+𝐍𝐚𝐦𝐞 😎 - {} 
 """
